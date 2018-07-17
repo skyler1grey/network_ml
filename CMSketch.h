@@ -10,6 +10,8 @@
 #include <math.h>
 #include "decode.hpp"
 
+#include "ClassificationSVM.hpp"
+
 using namespace std;
 
 class CMSketch
